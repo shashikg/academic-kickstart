@@ -11,30 +11,26 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Computer Vision",
+    "Computational Cognitive Science",
+    "Machine Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "BTech in Electrical Engineering"
+  institution = "Indian Institute of Technology Kanpur"
+  year = 2020
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Minor Degree in Cognitive Science"
+  institution = "Indian Institute of Technology Kanpur"
+  year = 2020
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
-# Biography
+# About Me
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm an undergraduate student in Electrical Engineering at [Indian Institute of Technology Kanpur](http://www.iitk.ac.in/). I'm also exploring the field of **Cognitive Science** and is registered in a minor program in that department. My interest lie in **Signal Processing**, **Human Cognition** and **Computer Vision**, with a dream of building an artificial agent which can mimic **humans!!**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Apart from academic interests, I love to do **pencil sketching**, **kirigami**, wasting my time watching **animes** and (Spending time alone absolutely thinking nothing..   :stuck_out_tongue_closed_eyes: :stuck_out_tongue_closed_eyes: )
